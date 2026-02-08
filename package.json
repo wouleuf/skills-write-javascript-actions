@@ -1,6 +1,7 @@
 {
   "name": "skills-write-javascript-actions",
   "version": "1.0.0",
+  "type": "module",
   "description": "<img src=\"https://octodex.github.com/images/Professortocat_v2.png\" align=\"right\" height=\"200px\" />",
   "main": "index.js",
   "scripts": {
@@ -13,7 +14,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/wouleuf/skills-write-javascript-actions/issues"
   },
